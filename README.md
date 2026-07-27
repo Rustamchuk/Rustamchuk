@@ -15,13 +15,14 @@
 <p id="views">
   <img src="https://komarev.com/ghpvc/?username=Rustamchuk&style=flat-square&color=blue" alt="Profile views"/>
 </p>
+
 ---
 
 ### 👨‍💻 About Me
 
 - 👋 Hi, I'm **Rustam Nazarov**!
 - 👀 I'm mostly interested in **Go backend**, high-load systems & SRE
-- 💼 Currently **Senior Software Engineer @ Cloudflare** (observability, 2B RPS)
+- 💼 Currently **Senior Software Engineer @ Cloudflare** (observability, 2.000.000.000 RPS)
 - 🌱 Open-source contributor to [Statshouse](https://github.com/VKCOM/statshouse) · ex-Revolut, Allegro
 - 🧠 Experience: FinTech, search engines, microservices, mentoring (ITMO)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rustam-nazarov/) · rustiknazarov007@gmail.com
