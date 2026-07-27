@@ -10,9 +10,7 @@
   </a>
 </div>
 
-<p id="views">
-  <img src="https://komarev.com/ghpvc/?username=Rustamchuk&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+![](https://komarev.com/ghpvc/?username=Rustamchuk&color=green)
 
 ---
 
