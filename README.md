@@ -65,6 +65,7 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux" />
   &nbsp;
   <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3"/>
 </p>
 
 **DevOps & Tools**
