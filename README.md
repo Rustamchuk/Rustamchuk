@@ -32,13 +32,13 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,rust,cpp,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,python,php,rust,java" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,sqlite,elasticsearch" />
   &nbsp;
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse"/>
 </p>
