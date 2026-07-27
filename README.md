@@ -21,6 +21,7 @@
 - 💼 Currently **Senior Software Engineer @ Cloudflare** (observability, 2.000.000.000 RPS)
 - 🌱 Open-source contributor to [Statshouse](https://github.com/VKCOM/statshouse) · ex-Revolut, Allegro
 - 🧠 Experience: FinTech, search engines, microservices, mentoring (ITMO)
+- 🎓 Graduated from **ITMO University** (Computer Science)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rustam-nazarov/) · rustiknazarov007@gmail.com
 
 ---
