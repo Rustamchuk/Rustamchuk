@@ -64,14 +64,15 @@
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
 </p>
 
 **DevOps & Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,gitlab,github,grafana,prometheus,githubactions" />
-  &nbsp;
+</p>
+<p>
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
   <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK"/>
