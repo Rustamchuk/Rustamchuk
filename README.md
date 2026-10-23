@@ -16,9 +16,10 @@
 
 - 👋 Hi, I'm **Rustam Nazarov**!
 - 👀 I'm mostly interested in **Go backend**, high-load systems & SRE
-- 💼 Currently **Senior Software Engineer @ Shopify** (observability, 2.000.000.000 RPS)
+- 💼 Currently **AI Engineer | Senior Software Engineer @ Shopify** (observability, 2.000.000.000 RPS)
 - 🌱 Open-source contributor to [Statshouse](https://github.com/VKCOM/statshouse) · ex-Delivery Hero
 - 🧠 Experience: FinTech, search engines, microservices, mentoring (ITMO)
+- 🤖 AI Experience: AI Development, Agents, RAG, MCP, LLM, Graphs, Vector Databases 
 - 🎓 Graduated from **ITMO University** (Computer Science)
 - 📫 How to reach me: rustiknazarov006@gmail.com
 
