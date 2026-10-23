@@ -1,6 +1,6 @@
 <div id="badges">
   <!-- <a href="https://www.linkedin.com/in/rustam-nazarov/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> -->
-  <a href="mailto:rustiknazarov007@gmail.com">
+  <a href="mailto:rustiknazarov006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://t.me/rustamcheck">
@@ -16,11 +16,11 @@
 
 - 👋 Hi, I'm **Rustam Nazarov**!
 - 👀 I'm mostly interested in **Go backend**, high-load systems & SRE
-- 💼 Currently **Senior Software Engineer @ Cloudflare** (observability, 2.000.000.000 RPS)
-- 🌱 Open-source contributor to [Statshouse](https://github.com/VKCOM/statshouse) · ex-Revolut, Allegro
+- 💼 Currently **Senior Software Engineer @ Shopify** (observability, 2.000.000.000 RPS)
+- 🌱 Open-source contributor to [Statshouse](https://github.com/VKCOM/statshouse) · ex-Delivery Hero
 - 🧠 Experience: FinTech, search engines, microservices, mentoring (ITMO)
 - 🎓 Graduated from **ITMO University** (Computer Science)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rustam-nazarov/) · rustiknazarov007@gmail.com
+- 📫 How to reach me: rustiknazarov006@gmail.com
 
 ---
 
