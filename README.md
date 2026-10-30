@@ -23,7 +23,7 @@ I build production AI systems on top of high-load Go backends: multi-agent workf
 - 🤖 Building **LLM agents, GraphRAG and MCP integrations** on top of production infrastructure
 - 🛠️ **Agentic development** daily: Claude Code + custom MCP tools to ship and maintain 6 client SDKs
 - 🌱 Open-source contributor to [StatsHouse](https://github.com/VKCOM/statshouse) — **70+ merged PRs**
-- 🧠 Background: search engines, recommendation systems, event-driven microservices · ex-Delivery Hero, ex-Allegro
+- 🧠 Background: search engines, recommendation systems, event-driven microservices 
 - 👨‍🏫 Taught Go & algorithms to 150 students at **ITMO University**
 - 🎓 ITMO University — Applied Mathematics & Computer Science
 - 📍 Frankfurt, Germany · open to remote
