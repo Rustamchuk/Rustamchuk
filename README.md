@@ -19,7 +19,7 @@ I build production AI systems on top of high-load Go backends: multi-agent workf
 
 ### 👨‍💻 About Me
 
-- 💼 **Senior AI Engineer | Senior Go Engineer @ Shopify** — observability platform, **2B RPS**, 30K servers, 4 PB of data
+- 💼 **Senior AI Engineer | Senior Go Engineer** — observability platform, **2B RPS**, 30K servers, 4 PB of data
 - 🤖 Building **LLM agents, GraphRAG and MCP integrations** on top of production infrastructure
 - 🛠️ **Agentic development** daily: Claude Code + custom MCP tools to ship and maintain 6 client SDKs
 - 🌱 Open-source contributor to [StatsHouse](https://github.com/VKCOM/statshouse) — **70+ merged PRs**
